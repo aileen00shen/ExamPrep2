@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamPrep2</string>
+    <string name="button">Launch Detail Activity</string>
+    <string name="button2">Show Video</string>
+</resources>

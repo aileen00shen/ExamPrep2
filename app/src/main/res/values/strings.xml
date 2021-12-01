@@ -2,4 +2,11 @@
     <string name="app_name">ExamPrep2</string>
     <string name="button">Launch Detail Activity</string>
     <string name="button2">Show Video</string>
+    <string name="countryTxt">Australia</string>
+    <string name="newCasesTxt">New Cases</string>
+    <string name="totalCasesTxt">Total Cases</string>
+    <string name="newDeathsTxt">New Deaths</string>
+    <string name="totalDeathsTxt">Total Deaths</string>
+    <string name="newRecoveredTxt">New recovered</string>
+    <string name="totalRecoveredTxt">Total recovered</string>
 </resources>
